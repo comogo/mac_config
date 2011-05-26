@@ -1,0 +1,4 @@
+[ui]
+ignore=~/.hgignore
+# username=user <user@user.com> 
+username=username <usermail>
